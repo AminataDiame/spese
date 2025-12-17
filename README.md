@@ -305,6 +305,6 @@ Hai domande o hai trovato un bug?
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Aminata**
 
 Last updated: December 2025 | Version: 1.0.0
